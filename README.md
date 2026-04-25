@@ -78,8 +78,8 @@ churn_prediction/
 ├── train.py                  # Model training & segmentation
 ├── retention.py              # Retention logic
 ├── email_templates.py        # Email content
-├── app.py                    # Streamlit dashboard
-└── requirements.txt
+└── app.py                    # Streamlit dashboard
+
 ```
 
 ---
